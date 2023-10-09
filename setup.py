@@ -79,7 +79,6 @@ setup(
     keywords=["deep learning", "pytorch", "AI"],
     python_requires=">=3.7",
     setup_requires=[],
-    install_requires=setup_tools._load_requirements(_PATH_REQUIRE),
     project_urls={
         "Bug Tracker": "https://github.com/Lightning-AI/lightning/issues",
         "Documentation": "https://lightning.rtfd.io/en/latest/",

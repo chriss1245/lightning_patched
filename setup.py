@@ -64,7 +64,7 @@ long_description = setup_tools._load_readme_description(
 # engineer specific practices
 setup(
     name="pytorch-lightning",
-    version=about.__version__,
+    version="1.6.5",
     description=about.__docs__,
     author=about.__author__,
     author_email=about.__author_email__,
